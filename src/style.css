@@ -83,7 +83,7 @@ container input::placeholder{
 
 @media (max-width: 620px) {
     .title{
-        font-size: 60px;
+        font-size: 40px;
     }
     .main h2 {
         font-size: 26px;
